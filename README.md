@@ -1,0 +1,2 @@
+# Nanami
+Beginner 🔰
